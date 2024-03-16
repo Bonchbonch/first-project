@@ -2,9 +2,9 @@
 
 
 ## The first epic
-In this case you have to realese 3 tasks:..
-- *design1*
-- *design2*
-- *design3*
+In this case you have to realese 3 tasks:
+- __*design1*__
+- __*design2*__
+- ~~*design3*~~
 
 ## The second epic
